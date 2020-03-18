@@ -114,12 +114,6 @@ public class SortedUniquePersonList {
                     }
                     uusList[i] = persons[i];
                 }
-
-                //System.out.println(Arrays.toString(persons));
-                //System.out.println(Arrays.toString(uusList));
-                //System.out.println("i : " + i);
-                //System.out.println("---------");
-
             }
             System.out.println(Arrays.toString(uusList));
             persons = uusList;
